@@ -1,9 +1,15 @@
+*{
+    background-color: aqua;
+    
+}
 h1 {
+
     color:blueviolet
 }
 h2{
     color:blue;
 }
-ul li{
+li{
     list-style-type: disc;
+    font-family: 'Martian Mono', monospace;
 }
